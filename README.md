@@ -1,7 +1,7 @@
 # Datadog-Kubernetes-helm
 Install Datadog Agent on Kubernetes Using Helm chart
 
-# Insatll HELM chat
+# Install HELM chart
 helm repo add datadog https://helm.datadoghq.com
 helm repo update
 
